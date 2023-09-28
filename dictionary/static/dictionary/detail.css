@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Chakra+Petch:wght@700&display=swap');
+
+
+nav{
+    background-color: blueviolet;
+    
+}
+
+#title-word {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(140, 192, 88);
+    height: 60px;
+  }
+
+  .navbar-brand{
+    font-family: "Chakra Petch";
+}
+
+
+
+
+.navbar-brand , .nav-link {
+    color: aliceblue;
+}
+
+
+.title h1{
+    width: fit-content;
+}
+
+
+.item-hiden{
+    display: none;
+}
+
+ul{
+    list-style: none;
+}
+
+
+
+
+#audio-play-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+#svg-volume-up{
+    position: absolute;
+}
+  
+
